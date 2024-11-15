@@ -1,0 +1,9 @@
+Lista de Usuarios
+
+Sin Permisos
+Nombre: Usuario
+Contraseña: Usuario
+
+Con Permisos
+Nombre: admin
+Contraseña: admin
